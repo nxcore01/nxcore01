@@ -14,5 +14,7 @@ Sou desenvolvedor focado em transformar ideias em soluções web funcionais, lim
 ### 📬 Vamos nos conectar?
 - **E-mail:** [devlucas.comercial@outlook.com]
 
----
+### 💻 Projetos
 
+* **[Cantinho Pet](https://goo.su/AwZxWWj)** - Site institucional focado em serviços e galeria para pet shop. ([Ver online](https://nxcore01.github.io/projeto-cantinho-pet/))
+* *(Em breve mais projetos aqui conforme meu portfólio for crescendo...)*
