@@ -16,6 +16,6 @@ Sou desenvolvedor focado em transformar ideias em soluções web funcionais, lim
 
 ### 💻 Projetos
 
-* **[Cantinho Pet](https://goo.su/AwZxWWj)** - Site institucional focado em serviços e galeria para pet shop.
+* **[Cantinho Pet](https://goo.su/wkeyd)** - Site institucional focado em serviços e galeria para pet shop.
 
  *(Em breve mais projetos aqui...)*
