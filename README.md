@@ -15,4 +15,4 @@ Sou desenvolvedor focado em transformar ideias em soluções web funcionais, lim
 - **E-mail:** [devlucas.comercial@outlook.com]
 
 ---
-*Projetos em breve no meu portfólio!*
+
