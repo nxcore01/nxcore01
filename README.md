@@ -11,7 +11,7 @@ Sou desenvolvedor focado em transformar ideias em soluções web funcionais, lim
 - **Design & UI/UX:** Foco em layouts profissionais e responsivos
 - **Ferramentas:** Git, GitHub, VS Code
 
-### 📬 Vamos nos conectar?
+### 📬 Bora trocar uma ideia sobre projetos?
 - **E-mail:** [devlucas.comercial@outlook.com]
 
 ### 💻 Projetos
